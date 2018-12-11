@@ -1,0 +1,10 @@
+SENDER : admin 	 RECEIVER : Angelos
+DATE : 2018-11-19 17:06:46
+SUBJECT : fewvwev
+TEXT : vwvcwcwer
+
+SENDER : Angelos 	 RECEIVER : admin
+DATE : 2018-11-20 22:51:02
+SUBJECT : greeting
+TEXT : thank you for your hard work
+
